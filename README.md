@@ -2,6 +2,9 @@
 Overview
 This project focuses on predicting cardiovascular health risks using Python and the Plotly library. The goal is to identify potential risk factors associated with cardiovascular diseases (CVD) through data visualization, exploratory data analysis (EDA), and statistical analysis.
 
+# What's included
+This is the readme file dictaing how to navigate to the project. The actual project contents are in this repository as CardiovascularProject.ipynb. 
+
 # Showcasing
 Language: Python
 Library: Plotly
