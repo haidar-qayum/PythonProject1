@@ -9,14 +9,14 @@ This is the readme file dictaing how to navigate to the project. The actual proj
 Language: Python
 Library: Plotly
 
-# Skills Gained
-Data Visualization: Creating interactive and insightful visualizations.
-Exploratory Data Analysis (EDA): Uncovering patterns and insights from raw data.
-Data Cleaning & Preprocessing: Preparing data for analysis by cleaning and transforming it.
-Statistical Analysis: Understanding relationships between clinical features and outcomes.
-Correlation & Categorical Data Analysis: Exploring relationships between variables.
-Continuous Data Analysis: Analyzing numerical data distributions.
-Report Writing: Documenting findings and insights.
-Pandas: Efficient data manipulation.
-Insight Generation: Drawing meaningful conclusions from data.
-Analysis of Cardiovascular Risk Factors In Python
+## Skills Gained
+- **Data Visualization:** Creating interactive and insightful visualizations.
+- **Exploratory Data Analysis (EDA):** Uncovering patterns and insights from raw data.
+- **Data Cleaning & Preprocessing:** Preparing data for analysis by cleaning and transforming it.
+- **Statistical Analysis:** Understanding relationships between clinical features and outcomes.
+- **Correlation & Categorical Data Analysis:** Exploring relationships between variables.
+- **Continuous Data Analysis:** Analyzing numerical data distributions.
+- **Report Writing:** Documenting findings and insights.
+- **Pandas:** Efficient data manipulation.
+- **Insight Generation:** Drawing meaningful conclusions from data.
+- **Analysis of Cardiovascular Risk Factors in Python**
